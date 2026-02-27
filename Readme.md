@@ -1,6 +1,6 @@
 # Markdown-документация
 <!-- Метки - Разное -->
- ![Документация по Markdown](<https://img.shields.io/badge/Документация-Cultus%20Tenebrae-black?logo=markdown&logoSize=auto&labelColor=informational>) \
+ ![Документация по Markdown](<https://img.shields.io/badge/Документация-Cultus%20Tenebrae-black?logo=markdown&logoSize=auto&labelColor=informational> "Markdown") \
  ![Контрибьюторы](<https://img.shields.io/github/contributors/Cultus-Tenebrae/Markdown-documentation?logo=github&logoColor=white&logoSize=auto&label=Контрибьюторы&labelColor=informational>)
  ![Наблюдатели](<https://img.shields.io/github/watchers/Cultus-Tenebrae/Markdown-documentation?label=Наблюдатели>)
  ![Звёзды](<https://img.shields.io/github/stars/Cultus-Tenebrae/Markdown-documentation?label=Звёзды>)
