@@ -1,17 +1,17 @@
 # Markdown-документация
-<!-- Метки - Разное -->
+<!-- Метки — Разное -->
  ![Документация по Markdown](<https://img.shields.io/badge/Документация-Cultus%20Tenebrae-black?logo=markdown&logoSize=auto&labelColor=informational> "Markdown") \
  ![Контрибьюторы](<https://img.shields.io/github/contributors/Cultus-Tenebrae/Markdown-documentation?logo=github&logoColor=white&logoSize=auto&label=Контрибьюторы&labelColor=informational>)
  ![Наблюдатели](<https://img.shields.io/github/watchers/Cultus-Tenebrae/Markdown-documentation?label=Наблюдатели>)
  ![Звёзды](<https://img.shields.io/github/stars/Cultus-Tenebrae/Markdown-documentation?label=Звёзды>)
  ![Обсуждения](<https://img.shields.io/github/discussions/Cultus-Tenebrae/Markdown-documentation?logo=github&logoColor=white&logoSize=auto&label=Обсуждения&labelColor=important>)
 
-<!-- Метки - Статистика последнего релиза -->
+<!-- Метки — Статистика последнего релиза -->
  - [![Последний релиз](<https://img.shields.io/github/v/release/Cultus-Tenebrae/Markdown-documentation?sort=date&display_name=release&logo=github&logoColor=white&logoSize=auto&label=Последний%20релиз&labelColor=important>)](<https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest> "Перейти к релизу&hellip;")
  - ![Дата публикации последнего релиза](<https://img.shields.io/github/release-date/Cultus-Tenebrae/Markdown-documentation?display_date=published_at&logo=github&logoColor=white&logoSize=auto&label=Дата%20публикации%20последнего%20релиза&labelColor=informational>)
  - ![Загрузки последнего релиза](<https://img.shields.io/github/downloads/Cultus-Tenebrae/Markdown-documentation/latest/total?logo=github&logoColor=white&logoSize=auto&label=Количество%20загрузок%20последнего%20релиза&labelColor=informational>)
 
-***Репозиторий документации по языку текстовой разметки*** - ***Markdown***.
+***Репозиторий документации по языку текстовой разметки*** — ***Markdown***.
 
 ![Размер файла документации](<https://img.shields.io/github/size/Cultus-Tenebrae/Markdown-documentation/Документация [Markdown].pdf?label=Размер%20файла%20документации&labelColor=important>)
 [![Загрузка последнего релиза](<https://img.shields.io/badge/Скачать-PDF-red?labelColor=lime>)](<https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest/download/Markdown-documentation.pdf> "Приступить к загрузке&hellip;")
