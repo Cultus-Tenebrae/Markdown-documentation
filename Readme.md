@@ -1,20 +1,21 @@
 # Markdown-документация
 <!-- Метки — Разное -->
- ![Документация по Markdown](<https://img.shields.io/badge/Документация-Cultus%20Tenebrae-black?logo=markdown&logoSize=auto&labelColor=informational> "Markdown") \
- ![Контрибьюторы](<https://img.shields.io/github/contributors/Cultus-Tenebrae/Markdown-documentation?logo=github&logoColor=white&logoSize=auto&label=Контрибьюторы&labelColor=informational>)
+ ![Документация по Markdown](<https://img.shields.io/badge/Документация-Cultus%20Tenebrae-black?style=for-the-badge&logo=markdown&logoSize=auto&labelColor=informational> "Markdown") \
+ ![Контрибьюторы](<https://img.shields.io/github/contributors/Cultus-Tenebrae/Markdown-documentation?style=social&logo=github&logoSize=auto&label=Контрибьюторы>)
  ![Наблюдатели](<https://img.shields.io/github/watchers/Cultus-Tenebrae/Markdown-documentation?label=Наблюдатели>)
  ![Звёзды](<https://img.shields.io/github/stars/Cultus-Tenebrae/Markdown-documentation?label=Звёзды>)
- ![Обсуждения](<https://img.shields.io/github/discussions/Cultus-Tenebrae/Markdown-documentation?logo=github&logoColor=white&logoSize=auto&label=Обсуждения&labelColor=important>)
+ ![Форки](<https://img.shields.io/github/forks/Cultus-Tenebrae/Markdown-documentation?label=Форки>)
+ ![Обсуждения](<https://img.shields.io/github/discussions/Cultus-Tenebrae/Markdown-documentation?style=social&logo=github&logoSize=auto&label=Обсуждения>)
 
 <!-- Метки — Статистика последнего релиза -->
- - [![Последний релиз](<https://img.shields.io/github/v/release/Cultus-Tenebrae/Markdown-documentation?sort=date&display_name=release&logo=github&logoColor=white&logoSize=auto&label=Последний%20релиз&labelColor=important>)](<https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest> "Перейти к релизу&hellip;")
- - ![Дата публикации последнего релиза](<https://img.shields.io/github/release-date/Cultus-Tenebrae/Markdown-documentation?display_date=published_at&logo=github&logoColor=white&logoSize=auto&label=Дата%20публикации%20последнего%20релиза&labelColor=informational>)
- - ![Загрузки последнего релиза](<https://img.shields.io/github/downloads/Cultus-Tenebrae/Markdown-documentation/latest/total?logo=github&logoColor=white&logoSize=auto&label=Количество%20загрузок%20последнего%20релиза&labelColor=informational>)
+ - [![Последний релиз](<https://img.shields.io/github/v/release/Cultus-Tenebrae/Markdown-documentation?sort=date&display_name=release&logo=github&logoSize=auto&label=Последний%20релиз>)](<https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest> "Перейти к релизу&hellip;")
+ - ![Дата публикации последнего релиза](<https://img.shields.io/github/release-date/Cultus-Tenebrae/Markdown-documentation?display_date=published_at&logo=github&logoSize=auto&label=Дата%20публикации%20последнего%20релиза>)
+ - ![Загрузки последнего релиза](<https://img.shields.io/github/downloads/Cultus-Tenebrae/Markdown-documentation/latest/total?logo=github&logoSize=auto&label=Количество%20загрузок%20последнего%20релиза>)
 
 ***Репозиторий документации по языку текстовой разметки*** — ***Markdown***.
 
-![Размер файла документации](<https://img.shields.io/github/size/Cultus-Tenebrae/Markdown-documentation/Документация [Markdown].pdf?label=Размер%20файла%20документации&labelColor=important>)
-[![Загрузка последнего релиза](<https://img.shields.io/badge/Скачать-PDF-red?labelColor=lime>)](<https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest/download/Markdown-documentation.pdf> "Приступить к загрузке&hellip;")
+![Размер файла документации](<https://img.shields.io/github/size/Cultus-Tenebrae/Markdown-documentation/Документация [Markdown].pdf?label=Размер%20файла%20документации>)
+[![Загрузка последнего релиза](<https://img.shields.io/badge/Скачать-PDF-red?style=flat-square&labelColor=lime>)](<https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest/download/Markdown-documentation.pdf> "Приступить к загрузке&hellip;")
 
 ## Описание *проекта*
 ***Данная документация** изначально создавалась для **личного использования***, *но распространяется свободно в **надежде***, *что окажется полезной **программистам разного толка***. *В **ней** собрано **множество полезных материалов***, *чтобы помочь **начинающим** и **опытным программистам** освоить **язык текстовой разметки Markdown***. *Это не **учебник***, *а **полная техническая спецификация***. *Предполагается*, *что **читатель** знаком с **базовыми концепциями HTML** и имеет **опыт работы с текстовыми редакторами***.
@@ -29,8 +30,8 @@
     - Цветовая кодировка;
     - Стандартные параметры запроса URL-адреса.
 
-![Дата создания репо](<https://img.shields.io/github/created-at/Cultus-Tenebrae/Markdown-documentation?logo=github&logoColor=white&logoSize=auto&label=Дата%20создания%20репо&labelColor=informational>)
-![Размер репо](<https://img.shields.io/github/repo-size/Cultus-Tenebrae/Markdown-documentation?logo=github&logoColor=white&logoSize=auto&label=Размер%20репо&labelColor=important>)
+![Дата создания репо](<https://img.shields.io/github/created-at/Cultus-Tenebrae/Markdown-documentation?logo=github&logoSize=auto&label=Дата%20создания%20репо>)
+![Размер репо](<https://img.shields.io/github/repo-size/Cultus-Tenebrae/Markdown-documentation?logo=github&logoSize=auto&label=Размер%20репо>)
 - - -
 # Лицензия MIT
 > [!IMPORTANT]
@@ -44,6 +45,6 @@
 > [!NOTE]
 > **Составитель *документа***: ***Изергиль Ван Дер Вельде***.
 > 
-> ![Дата последнего внесения изменений](<https://img.shields.io/github/last-commit/Cultus-Tenebrae/Markdown-documentation?path=Readme.md&display_timestamp=committer&logo=github&logoColor=white&logoSize=auto&label=Дата%20последнего%20внесения%20изменений&labelColor=informational>)
+> ![Дата последнего внесения изменений](<https://img.shields.io/github/last-commit/Cultus-Tenebrae/Markdown-documentation?path=Readme.md&display_timestamp=committer&logo=github&logoSize=auto&label=Дата%20последнего%20внесения%20изменений>)
 - - -
-![Правообладатель](<https://img.shields.io/badge/%C2%A9%20Copyright-Cultus%20Tenebrae-black?labelColor=important> "Правообладатель")
+![Правообладатель](<https://img.shields.io/badge/%C2%A9%20Copyright-Cultus%20Tenebrae-black?style=for-the-badge&labelColor=important> "Правообладатель")
