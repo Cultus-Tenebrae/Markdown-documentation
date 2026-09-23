@@ -14,7 +14,7 @@
 
 ***Репозиторий документации по языку текстовой разметки*** — ***Markdown***.
 
-![Размер файла документации](<https://img.shields.io/github/size/Cultus-Tenebrae/Markdown-documentation/Документация [Markdown].pdf?label=Размер%20файла%20документации>)
+![Размер файла документации](<https://img.shields.io/github/size/Cultus-Tenebrae/Markdown-documentation/Markdown [Документация].pdf?label=Размер%20файла%20документации>)
 [![Загрузка последнего релиза](<https://img.shields.io/badge/Скачать-PDF-red?style=flat-square&labelColor=lime>)](<https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest/download/Markdown-documentation.pdf> "Приступить к загрузке&hellip;")
 
 ## Описание *проекта*
